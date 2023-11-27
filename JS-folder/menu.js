@@ -1,4 +1,4 @@
-export const merchandise = [
+export const evangelion = [
   {
       name: "test",
       image: '/img/test.jpg',
