@@ -25,7 +25,7 @@ export const Merch = [
     
     },   {
         name: "REI DOLL4",
-        image: '/public/Screenshot 2023-11-28 210409.png',
+        image: '/Screenshot 2023-11-28 210409.png',
         Shiniji: false,
         REI: true,
         Asuka: false,
@@ -73,7 +73,7 @@ export const Merch = [
     },
     {
         name: "REI canned bread",
-        image: '/public/P1010917.JPG',
+        image: '/P1010917.JPG',
         Shiniji: false,
         REI: true,
         Asuka: false,
@@ -81,7 +81,7 @@ export const Merch = [
     },
     {
         name: "REI UNIT00(v1)",
-        image: '/public/fhqfaww4sae51.jpg',
+        image: '/fhqfaww4sae51.jpg',
         Shiniji: false,
         REI: true,
         Asuka: false,
@@ -89,7 +89,7 @@ export const Merch = [
     },
     {
         name: "REI UNIT00(v2)",
-        image: '/public/61EuCGNMu9L.jpg',
+        image: ' /61EuCGNMu9L.jpg',
         Shiniji: false,
         REI: true,
         Asuka: false,
