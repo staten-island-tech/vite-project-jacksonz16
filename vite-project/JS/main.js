@@ -1,4 +1,4 @@
-import '../css/style.css'
+import '../CSS/style.css'
 import { DOMselectors } from './dom.js'
 import { Merch } from './menu.js'
 
